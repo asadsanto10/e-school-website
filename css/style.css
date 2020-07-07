@@ -90,7 +90,7 @@ a {
     text-align: center;
     padding-bottom: 50px; }
     #head .content h1 {
-      font-size: 45px; } }
+      font-size: 45px !important; } }
 
 @media only screen and (max-width: 992px) {
   nav ul {
